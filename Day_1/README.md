@@ -1,1 +1,1 @@
-# Day 01 Contrast
+# Day #01 - Contrast
